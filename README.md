@@ -1,4 +1,4 @@
-# docker-tftp-hpa
+# tftp-hpa Docker container
 Simple Alpine-based tftp-hpa Docker container
 
 ## Usage
